@@ -1,4 +1,4 @@
-package ed2;
+package EmAula;
 
 import java.util.Scanner;
 

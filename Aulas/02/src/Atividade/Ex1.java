@@ -1,4 +1,4 @@
-package ed1.ulbra;
+package Atividade;
 
 import java.util.Scanner;
 

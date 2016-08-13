@@ -1,4 +1,4 @@
-package ed2;
+package EmAula;
 
 /**
  * Created by ramon on 09/08/16.
