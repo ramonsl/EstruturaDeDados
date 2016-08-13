@@ -6,13 +6,13 @@ public class Ex1 {
 
     public static void main(String[] args) {
         /*
-        *
         * 1.	Faça um programa que leia um vetor unidimensional de tamanho 10, aonde os valores devem ser
          * entre 1 e 10. Ao final da leitura mostrar a soma do vetor. Mostrar o menor elemento lido e o maior.
-
         * */
 
-	//write your code here
+
+
+
         Scanner tc = new Scanner(System.in); // obj para leitura
         int vet[] = new int[10]; //declarando um vetor
         int soma=0, maior=0, menor=0;
