@@ -35,16 +35,16 @@ public class Ex07 {
             switch (op){
                 case 1:{
 
-                        Carro c= new Carro();
+                        Carro c = new Carro();
                         System.out.println("Ano:");
                         c.ano = tc.nextInt();
                         System.out.println("Cor:");
-                        c.cor= tc.next();
+                        c.cor = tc.next();
                         System.out.println("Preco:");
-                        c.preco= tc.nextDouble();
+                        c.preco = tc.nextDouble();
                         System.out.println("Marca:");
-                        c.marca= tc.next();
-                        vetCarros[qtd]=c;
+                        c.marca = tc.next();
+                        vetCarros[qtd] = c;
                         qtd++;
 
                     break;
