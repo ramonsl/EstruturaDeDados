@@ -13,8 +13,10 @@ public class Ex03 {
 
     public static int isPar(int n){
         if (n%2==0){
+            System.out.println("numero par");
             return 0;
         }else{
+            System.out.println("numero impar");
             return 1;
         }
 

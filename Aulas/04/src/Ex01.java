@@ -22,10 +22,11 @@ public class Ex01 {
 
     }
 
-    public static int somaVetor(int[] vet ){
+    public static int somaVetor(int[] vet){
         int som=0;
         for(int i=0; i<vet.length;i++){
             som += vet[i];
+          //  som = som + vet[i];
         }
         return som;
     }
