@@ -17,11 +17,12 @@ public class Pilha {
     int topo;
 
 
-
     public void init(int t){
         topo=-1;
         vetor = new int[t];
     }
+
+
     /* criar o init via construtor;
     public Pilha (int t){
         qtd =t;
