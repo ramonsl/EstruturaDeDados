@@ -1,3 +1,5 @@
+import java.util.Random;
+
 /**
  * Created by ramon on 18/10/16.
  */
@@ -5,6 +7,7 @@ public class Dicas {
     public void gerarNumeros(){
         int vetor[]= new int[10];
         for (int i=0;i<10;i++){
+
             Random r= new Random();
             vetor[i]= r.nextInt(10000);
         }
